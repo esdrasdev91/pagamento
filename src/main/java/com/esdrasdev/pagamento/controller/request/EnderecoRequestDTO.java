@@ -5,7 +5,7 @@ import lombok.Data;
 
 @Data
 @Builder
-public class enderecoRequestDTO {
+public class EnderecoRequestDTO {
 
     private String rua;
 
