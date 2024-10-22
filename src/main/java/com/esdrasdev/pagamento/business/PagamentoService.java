@@ -1,6 +1,7 @@
 package com.esdrasdev.pagamento.business;
 
 import com.esdrasdev.pagamento.controller.request.CartaoRequestDTO;
+import com.esdrasdev.pagamento.infrastructure.client.PagamentoClient;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
